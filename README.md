@@ -10,16 +10,16 @@
 
 ---
 
-### 🧠 Profile Overview
-I am a **Computer Science student** specializing in defensive and offensive security. I focus on understanding the "why" behind the exploit to build better defenses.
+### 🧠 Profile Overview 
+I am a Computer Science student focused on defensive and offensive security, aiming to understand the **_why_** behind exploits to build stronger defenses through hands-on exploration of cybersecurity tools.
 
-- 🔭 **Currently:** Sharpening Network Security skills and competing in CTFs.
+- 🔭 **Currently:** Sharpening Network Security skills and competing in [TryHackMe](https://tryhackme.com/p/ahzamusuf547) CTFs.
 - 🎓 **Education:** BS Computer Science.
 - 🎯 **Goal:** Transitioning into a SOC Analyst or Junior Pentester role.
 
 ---
 
-### 🛡️ Technical Arsenal
+### 🛡️ Exploring and Experimenting
 | Category | Tools |
 | :--- | :--- |
 | **OS / Pentest** | ![Kali](https://img.shields.io/badge/Kali-262626?style=flat&logo=kalilinux) ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat) |
@@ -29,11 +29,20 @@ I am a **Computer Science student** specializing in defensive and offensive secu
 ---
 
 ### 📜 Verified Credentials
-* **Google** Cybersecurity Professional
+* **Google** Cybersecurity Professional Certificate
 * **Fortinet** Intro to Threat Landscape
 * **NED Academy** Cybersecurity & Ethical Hacking
 
 ---
 
+### 🚩 Practical Skills 
+<p align="left">
+<a href="https://tryhackme.com/p/ahzamusuf547" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ahzamusuf547.png" alt="TryHackMe Badge" />
+</a>
+</p>
+
+---
+
 ### 🔗 Connect & Verify
-[LinkedIn](your-link) | [TryHackMe Profile](your-link) | [Portfolio](your-link)
+[LinkedIn](https://www.linkedin.com/in/ahzamyousuf) | [TryHackMe Profile](https://tryhackme.com/p/ahzamusuf547)

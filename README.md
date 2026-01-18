@@ -31,7 +31,7 @@ I am a Computer Science student focused on defensive and offensive security, aim
 ### 📜 Verified Credentials
 * **Google** Cybersecurity Professional Certificate
 * **Fortinet** Intro to Threat Landscape
-* **NED Academy** Cybersecurity & Ethical Hacking Certtificate
+* **NED Academy** Cybersecurity & Ethical Hacking Certificate
 
 ---
 

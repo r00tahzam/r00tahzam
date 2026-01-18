@@ -1,4 +1,4 @@
-# 👋 I'm r00tahzam 
+# 👋 I'm Ahzam Yousuf
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Cybersecurity-red?style=for-the-badge&logo=kali-linux&logoColor=white" />
@@ -15,7 +15,7 @@ I am a Computer Science student focused on defensive and offensive security, aim
 
 - 🔭 **Currently:** Sharpening Network Security skills and competing in [TryHackMe](https://tryhackme.com/p/ahzamusuf547) CTFs.
 - 🎓 **Education:** BS Computer Science.
-- 🎯 **Goal:** Transitioning into a SOC Analyst or Junior Pentester role.
+- 🛸 **Project(FYP):** Lightweight Deep Learning IDS for UAV's.
 
 ---
 
@@ -31,7 +31,7 @@ I am a Computer Science student focused on defensive and offensive security, aim
 ### 📜 Verified Credentials
 * **Google** Cybersecurity Professional Certificate
 * **Fortinet** Intro to Threat Landscape
-* **NED Academy** Cybersecurity & Ethical Hacking
+* **NED Academy** Cybersecurity & Ethical Hacking Certtificate
 
 ---
 

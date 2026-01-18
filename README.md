@@ -15,7 +15,7 @@ I am a Computer Science student focused on defensive and offensive security, aim
 
 - 🔭 **Currently:** Sharpening Network Security skills and competing in [TryHackMe](https://tryhackme.com/p/ahzamusuf547) CTFs.
 - 🎓 **Education:** BS Computer Science.
-- 🛸 **Project(FYP):** Lightweight Deep Learning IDS for UAV's.
+- 🛸 **Current Project(FYP):** Lightweight Deep Learning IDS for UAV's.
 
 ---
 
@@ -35,14 +35,6 @@ I am a Computer Science student focused on defensive and offensive security, aim
 
 ---
 
-### 🚩 Practical Skills 
-<p align="left">
-<a href="https://tryhackme.com/p/ahzamusuf547" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ahzamusuf547.png" alt="TryHackMe Badge" />
-</a>
-</p>
-
----
 
 ### 🔗 Connect & Verify
 [LinkedIn](https://www.linkedin.com/in/ahzamyousuf) | [TryHackMe Profile](https://tryhackme.com/p/ahzamusuf547)

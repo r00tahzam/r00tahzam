@@ -23,7 +23,7 @@ I am a Computer Science student focused on defensive and offensive security, aim
 | Category | Tools |
 | :--- | :--- |
 | **OS / Pentest** | ![Kali](https://img.shields.io/badge/Kali-262626?style=flat&logo=kalilinux) ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat) |
-| **Analysis** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-EF3B24?style=flat) | ![Wazuh](https://img.shields.io/badge/Wazuh-103D8F?style=flat)
+| **Analysis** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) | ![Wazuh](https://img.shields.io/badge/Wazuh-103D8F?style=flat)
 | **Automation** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
 
 ---
